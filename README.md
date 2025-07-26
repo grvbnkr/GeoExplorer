@@ -26,6 +26,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 First, clone the project repository to your local machine:
 
 git clone https://github.com/grvbnkr/GeoExplorer.git
+
 cd GeoExplorer
 
 2. Create a Virtual Environment (Recommended)
