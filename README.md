@@ -70,23 +70,5 @@ If the city is successfully located, an interactive map will appear below the fo
 If the city cannot be found or there's an error, a "city not found" message will be displayed.
 
 Project Structure
-GeoExplorer/
-├── p3_comproject/         
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-├── home_app/                
-│   ├── migrations/
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── tests.py
-│   ├── views.py
-│   └── templates/
-│       └── home.html
-├── manage.py               
-├── .gitignore              
-└── README.md               
+<img width="294" height="642" alt="image" src="https://github.com/user-attachments/assets/fbfc43d7-4a79-415d-8afc-ac4c486cc707" />
+             
