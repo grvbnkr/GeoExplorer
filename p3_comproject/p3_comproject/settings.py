@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-wu%%6&jr+%sg1v7pfyi(ql_^2u3bosd_+y4id2cc3!mdz-a=0)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["GeoExplorer.onrender.com"]
+ALLOWED_HOSTS = ['geoexplorer-y4b2.onrender.com', 'localhost', '127.0.0.1']
+
 
 
 # Application definition
@@ -122,5 +123,6 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
 
 
