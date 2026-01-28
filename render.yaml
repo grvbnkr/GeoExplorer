@@ -3,7 +3,7 @@ services:
     name: django-app
     env: python
     buildCommand: "pip install -r requirements.txt"
-    startCommand: "gunicorn GeoExplorer.wsgi:application"
+    startCommand: "gunicorn p3_comproject.wsgi:application"
     envVars:
       - key: PYTHON_VERSION
         value: 3.11
