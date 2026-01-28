@@ -70,5 +70,6 @@ If the city is successfully located, an interactive map will appear below the fo
 If the city cannot be found or there's an error, a "city not found" message will be displayed.
 
 Project Structure
+
 <img width="294" height="642" alt="image" src="https://github.com/user-attachments/assets/fbfc43d7-4a79-415d-8afc-ac4c486cc707" />
              
